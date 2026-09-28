@@ -7,7 +7,7 @@ export default function WhatsAppButton() {
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Chat with SLV PROTECH on WhatsApp"
-      className="group fixed bottom-[648px] right-5 z-[55] flex h-14 w-14 items-center justify-center rounded-full bg-[#25D366] shadow-lg shadow-green-500/30 transition-all duration-300 hover:-translate-y-1 hover:scale-105 hover:shadow-xl hover:shadow-green-500/40 sm:bottom-6 sm:right-6 sm:h-16 sm:w-16"
+      className="group fixed bottom-22 right-5 z-[55] flex h-14 w-14 items-center justify-center rounded-full bg-[#25D366] shadow-lg shadow-green-500/30 transition-all duration-300 hover:-translate-y-1 hover:scale-105 hover:shadow-xl hover:shadow-green-500/40 sm:bottom-6 sm:right-6 sm:h-16 sm:w-16"
     >
       {/* WhatsApp Logo */}
       <svg
